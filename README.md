@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ThanushKumarV
-- 👀 I’m interested in Coding
-- 🌱 I’m currently Studying B.Tech in Computer Science and Engineering 
-- 📫 How to reach me thanushkumnarvusa@gmail
+👋 Hi, I’m Thanush Kumar V
 
-<!---
-ThanushKumarV/ThanushKumarV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I’m passionate about Automation Testing, DevOps, and Cloud Technologies
+🚀 Skilled in Python, Selenium, Pytest, AWS, Docker, Kubernetes & CI/CD
+🎯 Currently building real-world automation frameworks and DevOps projects
+🎓 B.Tech in Computer Science and Engineering
+📫 Reach me at: thanushkumarvusa@gmail.com
+
